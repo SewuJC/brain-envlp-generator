@@ -1,5 +1,5 @@
 # brain-envlp-generator
-This is the procedural method for generating the constructal envelop of a human brain according to our Bejan's principle-based theory. 
+This is the procedural method for generating the constructal envelop of a human brain according to our Bejan's-principle-based theory. 
 
 This repository is primarily intended for reviewing and academic research in the field of biomathematics and neurobiology.
 
